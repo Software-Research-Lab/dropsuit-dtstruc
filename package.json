@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-dtstruc",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "DropSuit NLP - dtstruc function: A JavaScript and Node.js library for restructuring input data into different data structures",
   "main": "index.js",
   "scripts": {
