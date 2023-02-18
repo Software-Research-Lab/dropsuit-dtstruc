@@ -1,0 +1,37 @@
+{
+  "name": "dropsuit-dtstruc",
+  "version": "1.0.7",
+  "description": "DropSuit NLP - dtstruc function: A JavaScript and Node.js library for restructuring input data into different data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladooniani/dropsuit-dtstruc.git"
+  },
+  "keywords": [
+    "data restructuring",
+    "data manipulation",
+    "data analysis",
+    "data structure",
+    "JSON document",
+    "Q/A data structure",
+    "XY train data structure",
+    "IDX chain data structure",
+    "natural language processing"
+  ],
+  "author": "Lado Oniani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ladooniani/dropsuit-dtstruc/issues"
+  },
+  "homepage": "https://github.com/ladooniani/dropsuit-dtstruc#readme",
+  "dependencies": {
+    "dropsuit-clnarr": "^1.0.7",
+    "dropsuit-clnstr": "^1.0.11"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

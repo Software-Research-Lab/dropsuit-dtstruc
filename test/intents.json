@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "requests": ["Hi there, hi", "Hello to you, hello"],
+      "responses": ["Hello!", "Hi", "Hey!"]
+    },
+    {
+      "tag": "goodbye",
+      "requests": ["Take care, bye bye", "See you later, later I'll be around"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Goodbye",
+        "Have a nice day"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "requests": ["Thanks a lot, thanks", "Many thanks, thank you"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    }
+  ]
+}
